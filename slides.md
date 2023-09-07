@@ -28,6 +28,23 @@ layout: simple-intro
 
 by Hendrik Wallbaum
 
+
+---
+layout: speaker
+speakerImage: /assets/speaker.jpg
+---
+
+# Hendrik Wallbaum
+
+Castle Enthusiast
+
+Consultant @Netlight
+
+Architect
+
+Security Team Member
+
+
 ---
 
 # Ende
