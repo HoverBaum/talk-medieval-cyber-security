@@ -45,13 +45,14 @@ Architect
 Security Team Member
 
 ---
-layout: image-display
-image: /assets/constable.png
+layout: image-left
+image: /assets/hoardings.jpg
 ---
 
-# Constables
+# Hoardings
 
-The Constable was responsible for the castles security. When the lord was in residence he watched over the gatehouse and drawbridge. It fell within his responsibility to make sure an armed force was prepared. His men helped to uphold the law and provided security for the lord and lady at all times.
+- Ready made response
+- Adaptable
 
 ---
 
