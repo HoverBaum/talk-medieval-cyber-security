@@ -5,10 +5,7 @@ class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## Medieval Strategies for Cyber Security
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  ## Medieval Strategies for Cyber Security.
 drawings:
   persist: false
 #transition: slide-left
@@ -31,18 +28,18 @@ by Hendrik Wallbaum
 
 ---
 layout: speaker
-speakerImage: /assets/speaker.jpg
+speakerImage: /assets/speaker-2.jpg
 ---
 
 # Hendrik Wallbaum
-
-Castle Enthusiast
 
 Consultant @Netlight
 
 Architect
 
 Security Team Member
+
+Castle Enthusiast
 
 ---
 layout: image-left
@@ -51,9 +48,52 @@ image: /assets/hoardings.jpg
 
 # Hoardings
 
+<v-clicks>
+
+- Extra Galleries for sieges
 - Ready made response
 - Adaptable
 
+</v-clicks>
+
+---
+layout: image-left
+image: /assets/doorway.jpg
 ---
 
-# Ende
+# Doors
+
+- Weren't always open <Emoji>🚪</Emoji>
+
+---
+layout: image-left
+image: /assets/chest.jpg
+---
+
+# Locks
+
+- Need keys <Emoji>🗝️</Emoji>
+
+---
+layout: image-big
+image: /assets/theater-wide.jpg
+---
+
+# Theaters ?
+
+---
+layout: image-big
+image: /assets/theater-wide.jpg
+---
+
+# Theaters !
+
+
+---
+layout: statement
+emoji: 🏰
+---
+
+# End
+
+<a href="https://hendrikwallbaum.de">hendrikwallbaum.de</a>
