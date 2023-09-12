@@ -53,6 +53,7 @@ image: /assets/hoardings.jpg
 - Extra Galleries for sieges
 - Ready made response
 - Adaptable
+- <Emoji>🏰</Emoji> Disaster Response plan
 
 </v-clicks>
 
@@ -63,7 +64,15 @@ image: /assets/doorway.jpg
 
 # Doors
 
-- Weren't always open <Emoji>🚪</Emoji>
+<v-clicks>
+
+- Porters at the gate
+- Doorwards at inner doors
+- Staff could only go where they needed to
+- <Emoji>🏰</Emoji> Zero Trust
+- <Emoji>🏰</Emoji> Defense in Depth
+
+</v-clicks>
 
 ---
 layout: image-left
@@ -72,7 +81,31 @@ image: /assets/chest.jpg
 
 # Locks
 
-- Need keys <Emoji>🗝️</Emoji>
+<v-clicks>
+
+
+- Defend valuables
+- Multiple locks created trust
+- <Emoji>🏰</Emoji> Multifactor Authentication (MFA)
+
+</v-clicks>
+
+---
+layout: image-left
+image: /assets/change.jpg
+---
+
+# Change
+
+<v-clicks>
+
+- Castles were abandoned
+- Walls defended against swords
+- Cannons needed adaptation
+- <Emoji>🏰</Emoji> Post Mortem
+- <Emoji>🏰</Emoji> Continous Improvement
+
+</v-clicks>
 
 ---
 layout: image-big
@@ -82,18 +115,10 @@ image: /assets/theater-wide.jpg
 # Theaters ?
 
 ---
-layout: image-big
-image: /assets/theater-wide.jpg
----
-
-# Theaters !
-
-
----
 layout: statement
 emoji: 🏰
 ---
 
-# End
+# You are in this together!
 
 <a href="https://hendrikwallbaum.de">hendrikwallbaum.de</a>
