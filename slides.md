@@ -33,13 +33,13 @@ speakerImage: /assets/speaker-2.jpg
 
 # Hendrik Wallbaum
 
-Consultant @Netlight
-
-Architect
-
-Security Team Member
+Developer for fun
 
 Castle Enthusiast
+
+Consultant @Netlight
+
+
 
 ---
 layout: image
@@ -59,7 +59,23 @@ image: /assets/hoardings.jpg
 
 - Extra Galleries for sieges
 - Ready made response
-- <Emoji>🤖</Emoji> Disaster Response Plan
+- <Emoji>✨</Emoji> Disaster Response Plan
+
+</v-clicks>
+
+---
+layout: image-left
+image: /assets/change.jpg
+---
+
+# Walls 
+
+<v-clicks>
+
+- Castles were abandoned
+- Walls defended against swords
+- Cannons needed adaptation
+- <Emoji>✨</Emoji> Continuous Improvement
 
 </v-clicks>
 
@@ -68,14 +84,14 @@ layout: image-left
 image: /assets/doorway.jpg
 ---
 
-# Doors
+# Gates
 
 <v-clicks>
 
 - Porters at the gate
 - Doorwards at inner doors
 - Staff could only go where they needed to
-- <Emoji>🤖</Emoji> Zero Trust
+- <Emoji>✨</Emoji> Zero Trust
 
 </v-clicks>
 
@@ -91,23 +107,7 @@ image: /assets/chest.jpg
 
 - Defend valuables
 - Multiple locks created trust
-- <Emoji>🤖</Emoji> Multi-Factor Authentication (MFA)
-
-</v-clicks>
-
----
-layout: image-left
-image: /assets/change.jpg
----
-
-# Change
-
-<v-clicks>
-
-- Castles were abandoned
-- Walls defended against swords
-- Cannons needed adaptation
-- <Emoji>🤖</Emoji> Continuous Improvement
+- <Emoji>✨</Emoji> Multi-Factor Authentication (MFA)
 
 </v-clicks>
 
@@ -124,6 +124,14 @@ emoji: 🤖
 ---
 
 # We are all in this together!
+
+---
+
+# Plan ahead
+
+# Adopt to change
+
+# Everyone is responsible for security
 
 ---
 layout: image-left
