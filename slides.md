@@ -65,15 +65,14 @@ image: /assets/hoardings.jpg
 
 ---
 layout: image-left
-image: /assets/change.jpg
+image: /assets/walls.jpg
 ---
 
 # Walls 
 
 <v-clicks>
 
-- Castles were abandoned
-- Walls defended against swords
+- Palisades defended against swords
 - Cannons needed adaptation
 - <Emoji>✨</Emoji> Continuous Improvement
 
@@ -111,12 +110,23 @@ image: /assets/chest.jpg
 
 </v-clicks>
 
+
 ---
-layout: image
-image: /assets/theater-wide.jpg
+layout: image-left
+image: /assets/change.jpg
 ---
 
-# Theater
+# Learnings
+
+<v-clicks>
+
+Plan ahead <br/><br/>
+
+Adopt to change <br/><br/>
+
+You are responsible for security
+
+</v-clicks>
 
 ---
 layout: statement
@@ -125,19 +135,12 @@ emoji: 🤖
 
 # We are all in this together!
 
----
-
-# Plan ahead
-
-# Adopt to change
-
-# Everyone is responsible for security
 
 ---
 layout: image-left
 image: /assets/qr.png
 ---
 
-# We are all in this together!
+# Reach out
 
 <a href="https://hendrikwallbaum.de">hendrikwallbaum.de</a>
