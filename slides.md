@@ -59,7 +59,6 @@ image: /assets/hoardings.jpg
 
 - Extra Galleries for sieges
 - Ready made response
-- Adaptable
 - <Emoji>🤖</Emoji> Disaster Response Plan
 
 </v-clicks>
@@ -92,7 +91,7 @@ image: /assets/chest.jpg
 
 - Defend valuables
 - Multiple locks created trust
-- <Emoji>🤖</Emoji> Multifactor Authentication (MFA)
+- <Emoji>🤖</Emoji> Multi-Factor Authentication (MFA)
 
 </v-clicks>
 
@@ -108,17 +107,16 @@ image: /assets/change.jpg
 - Castles were abandoned
 - Walls defended against swords
 - Cannons needed adaptation
-- <Emoji>🤖</Emoji> Post Mortem
-- <Emoji>🤖</Emoji> Continous Improvement
+- <Emoji>🤖</Emoji> Continuous Improvement
 
 </v-clicks>
 
 ---
-layout: image-big
+layout: image
 image: /assets/theater-wide.jpg
 ---
 
-# Theaters ?
+# Theater
 
 ---
 layout: statement
@@ -132,6 +130,6 @@ layout: image-left
 image: /assets/qr.png
 ---
 
-# We are all in this together
+# We are all in this together!
 
 <a href="https://hendrikwallbaum.de">hendrikwallbaum.de</a>
