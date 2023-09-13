@@ -42,6 +42,13 @@ Security Team Member
 Castle Enthusiast
 
 ---
+layout: image
+image: /assets/carcassonne.jpg
+---
+
+# Carcassonne
+
+---
 layout: image-left
 image: /assets/hoardings.jpg
 ---
@@ -52,8 +59,7 @@ image: /assets/hoardings.jpg
 
 - Extra Galleries for sieges
 - Ready made response
-- Adaptable
-- <Emoji>🏰</Emoji> Disaster Response plan
+- <Emoji>🤖</Emoji> Disaster Response Plan
 
 </v-clicks>
 
@@ -69,8 +75,7 @@ image: /assets/doorway.jpg
 - Porters at the gate
 - Doorwards at inner doors
 - Staff could only go where they needed to
-- <Emoji>🏰</Emoji> Zero Trust
-- <Emoji>🏰</Emoji> Defense in Depth
+- <Emoji>🤖</Emoji> Zero Trust
 
 </v-clicks>
 
@@ -86,7 +91,7 @@ image: /assets/chest.jpg
 
 - Defend valuables
 - Multiple locks created trust
-- <Emoji>🏰</Emoji> Multifactor Authentication (MFA)
+- <Emoji>🤖</Emoji> Multi-Factor Authentication (MFA)
 
 </v-clicks>
 
@@ -102,23 +107,29 @@ image: /assets/change.jpg
 - Castles were abandoned
 - Walls defended against swords
 - Cannons needed adaptation
-- <Emoji>🏰</Emoji> Post Mortem
-- <Emoji>🏰</Emoji> Continous Improvement
+- <Emoji>🤖</Emoji> Continuous Improvement
 
 </v-clicks>
 
 ---
-layout: image-big
+layout: image
 image: /assets/theater-wide.jpg
 ---
 
-# Theaters ?
+# Theater
 
 ---
 layout: statement
-emoji: 🏰
+emoji: 🤖
 ---
 
-# You are in this together!
+# We are all in this together!
+
+---
+layout: image-left
+image: /assets/qr.png
+---
+
+# We are all in this together!
 
 <a href="https://hendrikwallbaum.de">hendrikwallbaum.de</a>
