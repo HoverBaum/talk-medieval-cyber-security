@@ -89,7 +89,6 @@ image: /assets/doorway.jpg
 
 - Porters at the gate
 - Doorwards at inner doors
-- Staff could only go where they needed to
 - <Emoji>✨</Emoji> Zero Trust
 
 </v-clicks>
