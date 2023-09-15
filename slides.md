@@ -112,29 +112,15 @@ image: /assets/chest.jpg
 
 
 ---
-layout: image-left
-image: /assets/change.jpg
----
-
-# Learnings
-
-<v-clicks>
-
-Plan ahead <br/><br/>
-
-Adopt to change <br/><br/>
-
-You are responsible for security
-
-</v-clicks>
-
----
 layout: statement
-emoji: 🤖
+emoji: ✨
 ---
+
+<v-click>
 
 # We are all in this together!
 
+</v-click>
 
 ---
 layout: image-left
@@ -144,3 +130,5 @@ image: /assets/qr.png
 # Reach out
 
 <a href="https://hendrikwallbaum.de">hendrikwallbaum.de</a>
+
+<Emoji>⬅️</Emoji> Scan for LinkedIn
